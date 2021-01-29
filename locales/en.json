@@ -1,0 +1,64 @@
+{
+    "navbar": {
+        "home": "Home",
+        "market": "WBNB",
+        "airdrop": "Airdrop",
+        "about": "About",
+        "audit": "Audit",
+        "change-to-bsc": "BSC on Metamask",
+        "install-wallet": "Install Wallet",
+        "exchange": "Trade",
+        "guard": "Guardian",
+        "nft": "NFT"
+    },
+    "home": {
+        "note": "The Contract is not audited but open source, Please use at your own risk.",
+        "protocol-name": "0x1 Staking Pool",
+        "protocol-desc": "Stake 0x1 LP tokens to earn BIN tokens.",
+        "coming-soon": "Coming soon",
+        "select": "Select",
+        "card-desc": "Stake {symbol}"
+    },
+    "cow": {
+        "earned": "{symbol} earned",
+        "harvest": "Harvest {symbol}",
+        "symbol-staked": "{symbol} staked",
+        "approve-symbol": "Approve {symbol}",
+        "stake": "Stake {symbol}",
+        "unstake": "Unstake {symbol}",
+        "harvest-unstake": "Harvest {symbol2} & Unstake {symbol}",
+        "balance": "Balance: ",
+        "greater-than": "Must be greater than 0",
+        "unstake": "Unstake {symbol}",
+        "staking-balance": "Your staking balance: ",
+        "amount-greater-than": "Amount must be great than 0",
+        "total": "Total",
+        "staking": "is staking",
+        "warning": "Warning: Because BNB lending rate On cream.finance is very high, your staking BNB may be borrowed, it will be temporarily unable to withdraw due to insufficient liquidity, and it can be withdrawn after sufficient liquidity.",
+        "desc1": "She likes BNB, and NFT Cat is required.",
+        "desc2": "Each NFT Cat has a limit of 500 BNB"
+    },
+    "market": {
+        "tip": "Do a small amount test first, and then do a large amount operation.",
+        "from": "From {symbol}",
+        "balance": "Balance: {balance}",
+        "greather-than": "Must be greater than 0",
+        "to": "To {symbol}",
+        "swap": "Swap {symbol}",
+        "amount": "Amount",
+        "title-swap": "Exchange",
+        "title-transaction": "Transaction",
+        "copied": "Copied",
+        "success": "Success",
+        "error": "Failed"
+    },
+    "footerbar": {
+        "twitter": "Twitter",
+        "telegram": "Telegram",
+        "telegram_en": "Telegram(English)",
+        "github": "GitHub"
+    },
+    "nft": {
+        "about": "About Cat Guard Plan"
+    }
+}

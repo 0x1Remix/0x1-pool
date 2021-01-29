@@ -1,0 +1,31 @@
+{
+  "name": "BSCswap",
+  "version": "1.0.0",
+  "description": "Let's get milked",
+  "author": "BSCswap",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "bignumber.js": "^9.0.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "nuxt": "^2.14.12",
+    "vue": "^2.6.12",
+    "vue-i18n": "^8.22.4",
+    "web3": "^1.3.1",
+    "web3-utils": "^1.3.1"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.1.2",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "vue-jest": "^4.0.0-rc.1"
+  }
+}
